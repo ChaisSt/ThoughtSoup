@@ -1,0 +1,2 @@
+# ThoughtSoup
+ SignalR Chat App
