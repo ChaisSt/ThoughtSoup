@@ -1,9 +1,9 @@
 # Thought Soup
  SignalR Chat App
 
-Date Started: 4/13/2021
-Date Finished: 5/3/2021
-Class: Advanced Technologies 
+Date Started: 4/13/2021<br>
+Date Finished: 5/3/2021<br>
+Class: Advanced Technologies<br> 
 School: Southeast Technical College
 
 This mobile app was created as a group project in my final semester of college. While I may continue working with it, all future changes will be on a separate repository.
